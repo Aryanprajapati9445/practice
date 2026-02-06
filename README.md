@@ -1,4 +1,4 @@
-# React-Native-Bennett-university
+# React-Native-KIET UNIVERSITY
 
 1. Introduction to React Native 
 2. Advantages of App development using React Native
